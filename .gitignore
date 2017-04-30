@@ -1,6 +1,17 @@
 *.gem
 *.rbc
-/.config
+# include <stdio.h>
+# include <cornio.h>
+void main () 
+int main 
+a = y+1
+b = x+1
+multiply a*b;
+{
+   cout << " Hello World"; // prints Hello World 
+   return 0;
+}
+img.srt 
 /coverage/
 /InstalledFiles
 /pkg/
@@ -13,7 +24,7 @@
 # Used by dotenv library to load environment variables.
 # .env
 
-## Specific to RubyMotion:
+## Specifie RubyMotion:
 .dat*
 .repl_history
 build/
